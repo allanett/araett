@@ -1,0 +1,116 @@
+@import url('https://fonts.googleapis.com/css2?family=Tajawal:wght@400;700&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: "Tajawal" , sans-serif ;
+  
+}
+.navbar{
+    box-shadow: 1px 2px 5px #ebebeb;
+}
+.aza{
+    font-size: 60px;
+    color: whitesmoke ;
+   margin: top 15px%;
+   margin-right: auto;
+   width: 50%;
+   padding: 1px;
+   vertical-align: middle;
+   height: 60px;
+   
+   
+   
+}
+
+.ava{
+    width: 50%;
+    margin-right: auto;
+    margin-top: 15%;
+  
+
+}
+
+.about{
+    padding: 8% 0%  ;
+   
+}
+.title{
+    position: relative;
+    display: inline-block
+}
+.about-item{
+    margin: 50px;
+    
+}
+
+
+   
+   
+.news{
+    margin: 50px;
+    backgroun;
+}
+.section-title{
+    background: #ffc527 none repeat scroll 0 0;
+    bottom: 0;
+    
+   
+    height: 3px;
+    margin: 20px;
+
+
+  
+
+}
+.sub{
+    height: 450px;
+    background-image: url(../img/sub.jpg);
+    background-size: cover;
+    padding: 1px;
+    
+    
+}
+.sub-item{
+    width: 50%;
+    margin: 50px auto;
+    align-items: center;
+    
+}
+.form-sub{
+    width: 800px;
+    align-items: center;
+    
+   
+    
+}
+   
+.sub-title{
+    color: white;
+}
+.p-sun{
+    color: whitesmoke;
+}
+.allani{
+ margin: 2px auto;
+}
+.footer{
+    background-color: #071c33;
+    color: white;
+    padding: 50px;
+    
+}
+.footer img{
+    margin: 10px;
+}
+ul{
+    padding: 0;
+    margin: 0;
+}
+.footer-left{
+    font-size: 12px;
+}
+.footer-left img{
+    width: 50px;
+}
